@@ -1,9 +1,9 @@
-Template de slide usado pela Coordenadoria de Segurança e Serviço e Internet - CTIC
+## Template de slide usado pela Coordenadoria de Segurança e Serviço e Internet - CTIC
 
-### Pré-Requisito ###
-
-DEBIAN
+###  Pré-Requisito 
 
 Necessário instalar o pacote latex-beamer
 
-# aptitude install latex-beamer
+#### Debian
+
+##### aptitude install latex-beamer
