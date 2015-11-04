@@ -11,3 +11,15 @@ Necessário instalar os pacotes latex-beamer e abntex2
 ##### @ sudo aptitude update
 
 ##### @ sudo aptitude install latex-beamer abntex2
+
+### Compilando
+
+Agora temos um _Makefile_ e para executar a compilação, só é preciso fazer:
+```
+make
+```
+
+e quando for necessário limpar o diretório:
+```
+make clean
+```
