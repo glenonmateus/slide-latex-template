@@ -1,0 +1,11 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {brazil}
+\beamer@sectionintoc {1}{IDS/IPS}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Defini\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Tipos}{3}{0}{1}
+\beamer@sectionintoc {2}{Fases de Implanta\IeC {\c c}\IeC {\~a}o}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Levantamento}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Prepara\IeC {\c c}\IeC {\~a}o do Ambiente}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Testes}{7}{0}{2}
+\beamer@subsectionintoc {2}{4}{Avalia\IeC {\c c}\IeC {\~a}o}{7}{0}{2}
+\beamer@subsectionintoc {2}{5}{Conclus\IeC {\~a}o}{7}{0}{2}
